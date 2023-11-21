@@ -11,6 +11,10 @@ des derniers jours. Un ficher csv est aussi exportable pour des traitement xlsx.
 ##############################################################
 BIBLIOTHEQUES ET CLASS 
 ##############################################################
+
+!!! Installer matplolib !!!
+--> commande : pip install matlotlib
+
 Toutes les bibliothèques utilisées sont : 
 - Tkinter, avec les class ttk, messagebox,
 - SQLite3
